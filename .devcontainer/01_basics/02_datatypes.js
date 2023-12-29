@@ -11,5 +11,5 @@ let isloggedin = false
 let state //undefined
 let stat = null //null value(empty)
 
-console.log(typeof null) //answer= object
+console.log(typeof null) //answer = object
 console.log(typeof undefined) // answer = undefined
