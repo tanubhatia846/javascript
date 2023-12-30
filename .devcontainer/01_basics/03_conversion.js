@@ -28,3 +28,15 @@ console.log(d)
 // "33abc" => NaN (not a number)
 // null to number => 0
 // undefined to number => NaN
+
+
+let value = 3
+let negavlue = -value
+console.log(negavlue)
+
+
+console.log("1"+2)
+console.log(1+"2")
+
+
+
