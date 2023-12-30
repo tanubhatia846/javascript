@@ -10,5 +10,22 @@
 //hello my first name is tanu and my last name bhatia
 
 //  String is of Object type
+console.log(first_name[0])
 
+console.log(first_name.length)
+
+console.log(first_name.toUpperCase())  //   original value will not get changed
+
+console.log(first_name)
+
+console.log(first_name.charAt(3))
+    
+console.log(first_name.indexOf('n'))
+
+
+let full_name = "my name is Tanu Bhatia!!!"
+
+console.log(full_name.trim())
+
+// split(" ") //   converts the string into an array on basis of something
 
